@@ -20,7 +20,7 @@ content_blocks:
       heading_gradient_color: '#a0a2ff'
     subheading:
       markdown_content: >-
-        A starting point for **developers looking to build a website with Astro,
+        This is a baby, also a starting point for **developers looking to build a website with Astro,
         using Bookshop components in CloudCannon**. Create your own copy, and
         start creating your own components to use in the CloudCannon CMS.
       color: '#393939'
