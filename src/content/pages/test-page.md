@@ -1,5 +1,5 @@
 ---
-_schema: default
+_schema: page
 title: test page
 seo:
   page_description:

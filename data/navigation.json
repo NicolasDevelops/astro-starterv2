@@ -10,8 +10,8 @@
         "text": "Blog"
       },
       {
-        "link": "/feed.xml",
-        "text": "RSS Feed"
+        "link": "/test-page/",
+        "text": "test page"
       }
     ]
   },
